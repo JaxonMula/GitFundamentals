@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\bin\Debug\net7.0\04_Strings.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\bin\Debug\net7.0\04_Strings.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\bin\Debug\net7.0\04_Strings.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\bin\Debug\net7.0\04_Strings.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\bin\Debug\net7.0\04_Strings.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\04_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\04_Strings.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\04_Strings.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\04_Strings.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\04_Strings.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\refint\04_Strings.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\04_Strings.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\04_Strings.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\04_Strings\obj\Debug\net7.0\ref\04_Strings.dll

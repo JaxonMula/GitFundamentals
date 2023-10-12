@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\bin\Debug\net7.0\07_ForLoop.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\bin\Debug\net7.0\07_ForLoop.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\bin\Debug\net7.0\07_ForLoop.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\bin\Debug\net7.0\07_ForLoop.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\bin\Debug\net7.0\07_ForLoop.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\07_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\07_ForLoop.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\07_ForLoop.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\07_ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\07_ForLoop.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\refint\07_ForLoop.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\07_ForLoop.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\07_ForLoop.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoop\obj\Debug\net7.0\ref\07_ForLoop.dll

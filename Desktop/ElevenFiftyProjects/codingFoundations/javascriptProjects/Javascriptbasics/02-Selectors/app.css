@@ -1,0 +1,35 @@
+img{
+    height: 700px;
+    width:  500px;
+}
+
+.honorable-mention{
+    width:250px;
+    height:300px;
+    padding:50px;
+}
+
+.boxA{
+    background-color: blue;
+}
+
+.boxB{
+    background-color: purple;
+}
+
+.container-width{
+    width: 400px;
+    height: 400px;
+}
+
+.imgBorder{
+    border: 8px solid black;
+}
+
+.rotate{
+    rotate: 90deg;
+}
+
+.hide{
+    display:contents;
+}

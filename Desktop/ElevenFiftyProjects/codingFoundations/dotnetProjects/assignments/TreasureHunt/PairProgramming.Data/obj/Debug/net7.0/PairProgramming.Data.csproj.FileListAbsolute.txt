@@ -1,0 +1,11 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\bin\Debug\net7.0\PairProgramming.Data.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\bin\Debug\net7.0\PairProgramming.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\bin\Debug\net7.0\PairProgramming.Data.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\PairProgramming.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\PairProgramming.Data.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\PairProgramming.Data.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\PairProgramming.Data.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\PairProgramming.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\refint\PairProgramming.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\PairProgramming.Data.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\TreasureHunt\PairProgramming.Data\obj\Debug\net7.0\ref\PairProgramming.Data.dll

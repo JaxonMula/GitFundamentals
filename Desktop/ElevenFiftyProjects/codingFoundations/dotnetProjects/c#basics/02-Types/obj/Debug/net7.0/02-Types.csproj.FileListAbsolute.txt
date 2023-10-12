@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\02-Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\02-Types.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\02-Types.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\02-Types.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\bin\Debug\net7.0\02-Types.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\bin\Debug\net7.0\02-Types.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\bin\Debug\net7.0\02-Types.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\bin\Debug\net7.0\02-Types.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\bin\Debug\net7.0\02-Types.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\02-Types.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\refint\02-Types.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\02-Types.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\02-Types.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02-Types\obj\Debug\net7.0\ref\02-Types.dll

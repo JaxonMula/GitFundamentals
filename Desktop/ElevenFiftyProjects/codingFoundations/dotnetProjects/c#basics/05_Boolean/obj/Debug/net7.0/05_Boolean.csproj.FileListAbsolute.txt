@@ -1,0 +1,4 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\05_Boolean\obj\Debug\net7.0\05_Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\05_Boolean\obj\Debug\net7.0\05_Boolean.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\05_Boolean\obj\Debug\net7.0\05_Boolean.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\05_Boolean\obj\Debug\net7.0\05_Boolean.csproj.CoreCompileInputs.cache

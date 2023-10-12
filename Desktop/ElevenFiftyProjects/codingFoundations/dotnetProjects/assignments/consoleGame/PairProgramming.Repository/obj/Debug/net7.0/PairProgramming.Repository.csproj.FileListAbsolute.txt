@@ -1,0 +1,15 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Repository.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Repository.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\bin\Debug\net7.0\PairProgramming.Data.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.csproj.AssemblyReference.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.csproj.CopyComplete
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\refint\PairProgramming.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\PairProgramming.Repository.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\consoleGame\PairProgramming.Repository\obj\Debug\net7.0\ref\PairProgramming.Repository.dll

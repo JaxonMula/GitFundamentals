@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\07_ForLoopChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\07_ForLoopChallenges.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\07_ForLoopChallenges.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\07_ForLoopChallenges.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\bin\Debug\net7.0\07_ForLoopChallenges.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\bin\Debug\net7.0\07_ForLoopChallenges.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\bin\Debug\net7.0\07_ForLoopChallenges.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\bin\Debug\net7.0\07_ForLoopChallenges.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\bin\Debug\net7.0\07_ForLoopChallenges.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\07_ForLoopChallenges.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\refint\07_ForLoopChallenges.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\07_ForLoopChallenges.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\07_ForLoopChallenges.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForLoopChallenges\obj\Debug\net7.0\ref\07_ForLoopChallenges.dll

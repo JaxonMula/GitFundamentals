@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\08_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\08_Constructor.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\08_Constructor.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\08_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\bin\Debug\net7.0\08_Constructor.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\bin\Debug\net7.0\08_Constructor.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\bin\Debug\net7.0\08_Constructor.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\bin\Debug\net7.0\08_Constructor.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\bin\Debug\net7.0\08_Constructor.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\08_Constructor.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\refint\08_Constructor.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\08_Constructor.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\08_Constructor.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\08_Constructor\obj\Debug\net7.0\ref\08_Constructor.dll

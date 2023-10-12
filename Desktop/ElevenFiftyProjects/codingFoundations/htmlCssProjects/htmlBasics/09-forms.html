@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms</title>
+  </head>
+  <body>
+    <h1>Forms</h1>
+    <h2>Basic Form</h2>
+
+    <div>
+      <form>
+        <p>
+          <label>Customer Name: <input type="text" /></label>
+        </p>
+        <p>
+          <label>Street Address <input type="text" /></label>
+        </p>
+        <p>
+          <label>City: <input type="text" /></label>
+        </p>
+        <p>
+          <label>Area Code: <input type="text" /></label>
+        </p>
+        <p>
+          <label>Phone number: <input type="tel" /></label>
+          <!--tel -> telphone number-->
+        </p>
+      </form>
+    </div>
+    <div style="border: solid 2px black; padding: 0.5em">
+      <fieldset>
+        <legend>Customer Information</legend>
+        <p>
+          <label for="">Customer Name: <input type="text" /></label>
+        </p>
+        <p>
+          <label for="">Telphone: <input type="text" /></label>
+        </p>
+        <p>
+          <label for=""> Email Address: <input type="text" /></label>
+        </p>
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>Size</legend>
+        <p>
+          <label for="size0" id="size0"
+            >Humongous: <input type="checkbox"
+          /></label>
+        </p>
+
+        <p>
+          <label for="size1" id="size0"
+            >Double Humongous: <input type="checkbox"
+          /></label>
+        </p>
+        <p>
+          <label for="size2" id="size0"
+            >Triple-Humongous: <input type="checkbox"
+          /></label>
+        </p>
+        <p>
+          <label for="size3" id="size0">Tiny: <input type="checkbox" /></label>
+        </p>
+      </fieldset>
+      <br />
+
+      <fieldset>
+        <legend>Fixins</legend>
+        <p>
+          <label name="fixing" id="onions"
+            >Onions <input type="checkbox"
+          /></label>
+        </p>
+        <p>
+          <label name="fixing" id="guac">Guac <input type="checkbox" /></label>
+        </p>
+        <p>
+          <label name="fixing" id="Queso"
+            >Queso <input type="checkbox"
+          /></label>
+        </p>
+        <p>
+          <label name="fixing" id="Lettuce"
+            >Lettuce <input type="checkbox"
+          /></label>
+        </p>
+        <p>
+          <label name="fixing" id="Beans"
+            >Beans <input type="checkbox"
+          /></label>
+        </p>
+        <p>
+          <label name="fixing" id="rice">Rice <input type="checkbox" /></label>
+        </p>
+      </fieldset>
+<br>
+<fieldset>
+    <legend>Delivery Instructions</legend>
+    <p>
+        <textarea name="" id="" rows="10"></textarea>
+    </p>
+    <p>
+       <button type="submit">Submit Order</button>
+    </p>
+</fieldset>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\bin\Debug\net7.0\07_ForEach.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\bin\Debug\net7.0\07_ForEach.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\bin\Debug\net7.0\07_ForEach.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\bin\Debug\net7.0\07_ForEach.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\bin\Debug\net7.0\07_ForEach.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\07_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\07_ForEach.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\07_ForEach.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\07_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\07_ForEach.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\refint\07_ForEach.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\07_ForEach.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\07_ForEach.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_ForEach\obj\Debug\net7.0\ref\07_ForEach.dll

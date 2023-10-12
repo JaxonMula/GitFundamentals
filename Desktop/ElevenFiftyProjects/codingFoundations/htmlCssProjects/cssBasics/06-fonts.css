@@ -1,0 +1,25 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 1rem;
+}
+
+#family{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#size{
+    font-size: large;
+}
+
+#weight{
+    font-weight: bold;
+}

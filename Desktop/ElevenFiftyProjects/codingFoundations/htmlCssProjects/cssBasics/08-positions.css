@@ -1,0 +1,28 @@
+.wrapper{
+margin: 5px;
+}
+
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 250px;
+    height: 250px;
+    background-color: lightgray;
+    border: 3px solid navy;
+}
+
+.lotsoftext{
+    height: 150vh;
+    width: 75%;
+    background-color: lightgray;
+}
+
+.positioning{
+    width: 75%;
+    background-color: lightgray;
+}
+
+.positioning h1{
+    text-align: center;
+}

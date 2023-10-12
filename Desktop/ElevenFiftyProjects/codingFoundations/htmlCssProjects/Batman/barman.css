@@ -1,0 +1,184 @@
+.wrapper {
+  margin: 100px;
+}
+
+.cowl {
+  background-color: black;
+  width: 100px;
+  height: 125px;
+  position: relative;
+  border: solid black;
+  margin: 16px;
+  top: 4em;
+  left: 2em;
+
+  border-radius: 45px 45px 0 0;
+}
+
+.eyeleft {
+  width: 30px;
+  height: 20px;
+  border: solid 1px black;
+  border-radius: 0 20px;
+  z-index: 1;
+  background-color: white;
+  position: relative;
+  top: 37px;
+  left: 8px;
+}
+.eyeright {
+  width: 30px;
+  height: 20px;
+  border: solid 1px black;
+  border-radius: 20px 0;
+  z-index: 1;
+  background-color: white;
+  position: relative;
+  top: 15px;
+  left: 59px;
+}
+
+.chin {
+  width: 70px;
+  height: 43px;
+  background-color: tan;
+  position: relative;
+  top: 40px;
+  left: 15px;
+}
+
+.earright {
+  position: relative;
+  top: -134px;
+  left: 1px;
+  width: 0px;
+
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 70px solid black;
+}
+.earleft {
+  position: relative;
+  top: -203px;
+  left: 84px;
+  width: 0px;
+
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 70px solid black;
+}
+
+.mouth {
+  background-color: black;
+  width: 30px;
+  height: 10px;
+
+  border: solid 1px black;
+  border-radius: 4px 45px 0 0;
+  margin: 16px;
+  position: relative;
+  top: -140px;
+  left: 1em;
+}
+.nose {
+  position: relative;
+  top: -190px;
+  left: 40px;
+  width: 0px;
+
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 15px solid black;
+}
+
+.torso{
+height: 250px;
+width: 175px;
+top: -158px;
+left: -35px;
+position: relative;
+background-color: grey;
+border-radius: 0 0 25px 25px;
+}
+.yellow{
+    position: relative;
+    height: 75px;
+    width: 115px;
+    background-color: yellow;
+    border-radius: 45px 45px 45px 45px;
+    top: -375px;
+    left: -7px;
+}
+.legleft{
+    position: relative;
+    height: 300px;
+    width: 50px;
+    background-color: grey;
+    top: -535px;
+    left: 75px;
+}
+.legright{
+    position: relative;
+    height: 300px;
+    width: 50px;
+    background-color: grey;
+    top: -235px;
+    left: -20px;
+}
+.rightarm{
+    position: relative;
+    height: 200px;
+    width: 50px;
+    background-color: grey;
+    top: -1250px;
+    left: -80px;
+}
+.leftarm{
+    position:relative;
+    height: 200px;
+    width: 50px;
+    background-color: grey;
+    top: -1450px;
+    left: 128px;
+}
+.belt{
+    position: relative;
+    height: 25px;
+    width: 170px;
+    background-color: yellow;
+    top: -1275px;
+    left: -32px;
+}
+.gloveright{
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    top: -1725px;
+    left: -80px;
+}
+.gloveleft{
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    top: -1775px;
+    left: 128px;
+}
+
+.bootright{
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    top: -1062px;
+    left: 75px;
+}
+.bootleft{
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    top: -1113px;
+    left: -20px;
+}

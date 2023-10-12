@@ -1,0 +1,6 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\09_InhericantceTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\09_InhericantceTests\obj\Debug\net7.0\09_InhericantceTests.csproj.AssemblyReference.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\09_InhericantceTests\obj\Debug\net7.0\09_InhericantceTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\09_InhericantceTests\obj\Debug\net7.0\09_InhericantceTests.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\09_InhericantceTests\obj\Debug\net7.0\09_InhericantceTests.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\09_InhericantceTests\obj\Debug\net7.0\09_InhericantceTests.csproj.CoreCompileInputs.cache

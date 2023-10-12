@@ -1,0 +1,21 @@
+.wrapper{
+    margin: 50x;
+}
+h1{
+    text-align: center;
+}
+.example-one{
+    height: 150px;
+    width: 50px;
+    background-color: red;
+}
+
+.example-two{
+    margin-top: 5px;
+    border: solid 2px limegreen;
+}
+
+.example-two img{
+    width: 400px;
+    height: 400px;
+}

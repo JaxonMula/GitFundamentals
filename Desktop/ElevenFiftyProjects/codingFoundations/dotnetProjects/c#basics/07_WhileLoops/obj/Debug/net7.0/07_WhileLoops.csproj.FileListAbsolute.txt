@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\bin\Debug\net7.0\07_WhileLoops.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\bin\Debug\net7.0\07_WhileLoops.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\bin\Debug\net7.0\07_WhileLoops.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\bin\Debug\net7.0\07_WhileLoops.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\bin\Debug\net7.0\07_WhileLoops.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\07_WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\07_WhileLoops.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\07_WhileLoops.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\07_WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\07_WhileLoops.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\refint\07_WhileLoops.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\07_WhileLoops.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\07_WhileLoops.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\07_WhileLoops\obj\Debug\net7.0\ref\07_WhileLoops.dll

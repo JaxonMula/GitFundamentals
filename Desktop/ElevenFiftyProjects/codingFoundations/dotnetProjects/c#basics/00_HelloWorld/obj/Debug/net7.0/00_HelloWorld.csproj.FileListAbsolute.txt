@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\bin\Debug\net7.0\00_HelloWorld.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\bin\Debug\net7.0\00_HelloWorld.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\bin\Debug\net7.0\00_HelloWorld.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\bin\Debug\net7.0\00_HelloWorld.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\bin\Debug\net7.0\00_HelloWorld.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\00_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\00_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\00_HelloWorld.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\00_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\00_HelloWorld.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\refint\00_HelloWorld.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\00_HelloWorld.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\00_HelloWorld.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\00_HelloWorld\obj\Debug\net7.0\ref\00_HelloWorld.dll

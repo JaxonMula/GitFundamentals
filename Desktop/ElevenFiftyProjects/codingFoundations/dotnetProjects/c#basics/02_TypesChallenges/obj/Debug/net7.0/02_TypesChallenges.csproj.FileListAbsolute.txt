@@ -1,0 +1,14 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\bin\Debug\net7.0\02_TypesChallenges.exe
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\bin\Debug\net7.0\02_TypesChallenges.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\bin\Debug\net7.0\02_TypesChallenges.runtimeconfig.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\bin\Debug\net7.0\02_TypesChallenges.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\bin\Debug\net7.0\02_TypesChallenges.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\02_TypesChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\02_TypesChallenges.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\02_TypesChallenges.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\02_TypesChallenges.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\02_TypesChallenges.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\refint\02_TypesChallenges.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\02_TypesChallenges.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\02_TypesChallenges.genruntimeconfig.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\02_TypesChallenges\obj\Debug\net7.0\ref\02_TypesChallenges.dll

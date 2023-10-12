@@ -1,0 +1,4 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\c#basics\10_Interfaces\obj\Debug\net7.0\10_Interfaces.csproj.CoreCompileInputs.cache
